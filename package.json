@@ -1,0 +1,20 @@
+{
+  "name": "projectuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "catur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RifkiIndriawanUNP/ProjectUTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RifkiIndriawanUNP/ProjectUTS/issues"
+  },
+  "homepage": "https://github.com/RifkiIndriawanUNP/ProjectUTS#readme"
+}
